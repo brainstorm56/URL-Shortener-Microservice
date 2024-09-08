@@ -1,0 +1,6 @@
+{
+  "workbench.colorTheme": "freeCodeCamp Dark Theme",
+  "files.exclude": {
+    "**/.git": false
+  }
+}
