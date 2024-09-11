@@ -1,11 +1,13 @@
 {
   "name": "shorturl",
   "version": "0.0.3",
+  "type": "module",
   "description": "API project for freeCodeCamp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
